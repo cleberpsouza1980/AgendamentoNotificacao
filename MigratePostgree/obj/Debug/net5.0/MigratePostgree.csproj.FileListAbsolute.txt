@@ -1,0 +1,16 @@
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\MigratePostgree\bin\Debug\net5.0\MigratePostgree.exe
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\MigratePostgree\bin\Debug\net5.0\MigratePostgree.deps.json
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\MigratePostgree\bin\Debug\net5.0\MigratePostgree.runtimeconfig.json
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\MigratePostgree\bin\Debug\net5.0\MigratePostgree.runtimeconfig.dev.json
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\MigratePostgree\bin\Debug\net5.0\MigratePostgree.dll
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\MigratePostgree\bin\Debug\net5.0\ref\MigratePostgree.dll
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\MigratePostgree\bin\Debug\net5.0\MigratePostgree.pdb
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\MigratePostgree\obj\Debug\net5.0\MigratePostgree.csproj.AssemblyReference.cache
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\MigratePostgree\obj\Debug\net5.0\MigratePostgree.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\MigratePostgree\obj\Debug\net5.0\MigratePostgree.AssemblyInfoInputs.cache
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\MigratePostgree\obj\Debug\net5.0\MigratePostgree.AssemblyInfo.cs
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\MigratePostgree\obj\Debug\net5.0\MigratePostgree.csproj.CoreCompileInputs.cache
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\MigratePostgree\obj\Debug\net5.0\MigratePostgree.dll
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\MigratePostgree\obj\Debug\net5.0\ref\MigratePostgree.dll
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\MigratePostgree\obj\Debug\net5.0\MigratePostgree.pdb
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\MigratePostgree\obj\Debug\net5.0\MigratePostgree.genruntimeconfig.cache

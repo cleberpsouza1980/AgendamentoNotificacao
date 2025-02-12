@@ -1,0 +1,17 @@
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\CrossCutting\bin\Debug\net5.0\CrossCutting.deps.json
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\CrossCutting\bin\Debug\net5.0\CrossCutting.dll
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\CrossCutting\bin\Debug\net5.0\ref\CrossCutting.dll
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\CrossCutting\bin\Debug\net5.0\CrossCutting.pdb
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\CrossCutting\bin\Debug\net5.0\Domain.dll
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\CrossCutting\bin\Debug\net5.0\Infrastructure.dll
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\CrossCutting\bin\Debug\net5.0\Infrastructure.pdb
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\CrossCutting\bin\Debug\net5.0\Domain.pdb
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\CrossCutting\obj\Debug\net5.0\CrossCutting.csproj.AssemblyReference.cache
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\CrossCutting\obj\Debug\net5.0\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\CrossCutting\obj\Debug\net5.0\CrossCutting.AssemblyInfoInputs.cache
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\CrossCutting\obj\Debug\net5.0\CrossCutting.AssemblyInfo.cs
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\CrossCutting\obj\Debug\net5.0\CrossCutting.csproj.CoreCompileInputs.cache
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\CrossCutting\obj\Debug\net5.0\CrossCutting.csproj.CopyComplete
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\CrossCutting\obj\Debug\net5.0\CrossCutting.dll
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\CrossCutting\obj\Debug\net5.0\ref\CrossCutting.dll
+D:\ProjetosC\TesteBackEnd\AgendamentoNotificacao\CrossCutting\obj\Debug\net5.0\CrossCutting.pdb
