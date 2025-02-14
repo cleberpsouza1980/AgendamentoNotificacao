@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjetosC\\TesteBackEnd\\AgendamentoNotificacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2F686E-7CB6-4A01-915A-C456F788A021}|Infrastructure\\Infrastructure.csproj|d:\\projetosc\\testebackend\\agendamentonotificacao\\infrastructure\\infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3F2F686E-7CB6-4A01-915A-C456F788A021}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04860243-A359-4CCB-807F-F556339FF230}|Domain\\Domain.csproj|d:\\projetosc\\testebackend\\agendamentonotificacao\\domain\\domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{04860243-A359-4CCB-807F-F556339FF230}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D77F26-BF3E-4A14-A6C3-9C924F9DF8A2}|CrossCutting\\CrossCutting.csproj|d:\\projetosc\\testebackend\\agendamentonotificacao\\crosscutting\\crosscutting.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{26D77F26-BF3E-4A14-A6C3-9C924F9DF8A2}|CrossCutting\\CrossCutting.csproj|solutionrelative:crosscutting\\crosscutting.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5674B444-3919-49AE-AE6A-50BE5B250DAD}|AgendamentoNotificacao\\AgendamentoNotificacao.csproj|d:\\projetosc\\testebackend\\agendamentonotificacao\\agendamentonotificacao\\agendamentonotificacao.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5674B444-3919-49AE-AE6A-50BE5B250DAD}|AgendamentoNotificacao\\AgendamentoNotificacao.csproj|solutionrelative:agendamentonotificacao\\agendamentonotificacao.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "D:\\ProjetosC\\TesteBackEnd\\AgendamentoNotificacao\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\ProjetosC\\TesteBackEnd\\AgendamentoNotificacao\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T12:32:08.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Domain",
+              "DocumentMoniker": "D:\\ProjetosC\\TesteBackEnd\\AgendamentoNotificacao\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\ProjetosC\\TesteBackEnd\\AgendamentoNotificacao\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T12:31:59.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrossCutting",
+              "DocumentMoniker": "D:\\ProjetosC\\TesteBackEnd\\AgendamentoNotificacao\\CrossCutting\\CrossCutting.csproj",
+              "RelativeDocumentMoniker": "CrossCutting\\CrossCutting.csproj",
+              "ToolTip": "D:\\ProjetosC\\TesteBackEnd\\AgendamentoNotificacao\\CrossCutting\\CrossCutting.csproj",
+              "RelativeToolTip": "CrossCutting\\CrossCutting.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T12:31:50.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgendamentoNotificacao",
+              "DocumentMoniker": "D:\\ProjetosC\\TesteBackEnd\\AgendamentoNotificacao\\AgendamentoNotificacao\\AgendamentoNotificacao.csproj",
+              "RelativeDocumentMoniker": "AgendamentoNotificacao\\AgendamentoNotificacao.csproj",
+              "ToolTip": "D:\\ProjetosC\\TesteBackEnd\\AgendamentoNotificacao\\AgendamentoNotificacao\\AgendamentoNotificacao.csproj",
+              "RelativeToolTip": "AgendamentoNotificacao\\AgendamentoNotificacao.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T12:31:36.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

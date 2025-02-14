@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eHaMyfV3f+FqZg8aPumgh1Xag3L/hGJzr3alNf+ZcewP4EhVnqCU+6siJvaT43ronhgRoGND1zMXMDVuZzDbug==",
+  "dgSpecHash": "gtk15qEdB4U=",
   "success": true,
   "projectFilePath": "D:\\ProjetosC\\TesteBackEnd\\AgendamentoNotificacao\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -27,7 +27,7 @@
     "C:\\Users\\cleber.souza\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\cleber.souza\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.2\\system.configuration.configurationmanager.9.0.2.nupkg.sha512",
     "C:\\Users\\cleber.souza\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "C:\\Users\\cleber.souza\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\cleber.souza\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.2\\system.diagnostics.eventlog.9.0.2.nupkg.sha512",
     "C:\\Users\\cleber.souza\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
     "C:\\Users\\cleber.souza\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.2\\system.security.cryptography.protecteddata.9.0.2.nupkg.sha512"
   ],

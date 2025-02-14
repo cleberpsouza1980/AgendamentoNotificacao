@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.35229.62
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgendamentoNotificacao", "AgendamentoNotificacao\AgendamentoNotificacao.csproj", "{5674B444-3919-49AE-AE6A-50BE5B250DAD}"
 EndProject
@@ -10,8 +10,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{04860243-A359-4CCB-807F-F556339FF230}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrossCutting", "CrossCutting\CrossCutting.csproj", "{26D77F26-BF3E-4A14-A6C3-9C924F9DF8A2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigratePostgree", "MigratePostgree\MigratePostgree.csproj", "{349C239C-8E5F-4334-AAA2-6686AD10EAC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +33,6 @@ Global
 		{26D77F26-BF3E-4A14-A6C3-9C924F9DF8A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26D77F26-BF3E-4A14-A6C3-9C924F9DF8A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26D77F26-BF3E-4A14-A6C3-9C924F9DF8A2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{349C239C-8E5F-4334-AAA2-6686AD10EAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{349C239C-8E5F-4334-AAA2-6686AD10EAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{349C239C-8E5F-4334-AAA2-6686AD10EAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{349C239C-8E5F-4334-AAA2-6686AD10EAC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

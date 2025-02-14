@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MigratePostgree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2d642aaf80170f6ed5c8b49592679360b5a5448")]
 [assembly: System.Reflection.AssemblyProductAttribute("MigratePostgree")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MigratePostgree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
